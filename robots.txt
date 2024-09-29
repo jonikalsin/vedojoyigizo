@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vedojoyigizo.netlify.app/sitemap.xml
